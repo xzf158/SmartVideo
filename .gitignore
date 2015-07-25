@@ -1,0 +1,4 @@
+node_modules/*
+dev/*
+gulpfile.js
+package.json
